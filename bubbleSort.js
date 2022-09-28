@@ -1,4 +1,3 @@
-const fs = require('fs')
 const a = [10, 5, 25, 20, 35, 30, 40, 36]
 const sortedArr = (function bubbleSort(a) {
   for (let i = a.length; i > 0; i--) {

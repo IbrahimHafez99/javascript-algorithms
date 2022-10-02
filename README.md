@@ -32,3 +32,13 @@ In general: O(n^2)
 if data is nearly sorted, or sorted: O(n)
 
 n: size of the array
+
+## Selection Sort
+
+Selection Sort potentially is better than something like bubble sort in a scenario which is for some reason you're in a situation where you want to minimize the number of swaps that you're making.
+
+### Time Complexity:
+
+In general: O(n^2)
+
+n: size of the array
